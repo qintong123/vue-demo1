@@ -4,6 +4,7 @@ import Vue from 'vue'
 
 //导入MUI的样式
 import  './lib/mui/css/mui.min.css'
+import './lib/mui/css/icons-extra.css'
 
 
 //按需要导入Mint-UI 中的组件
